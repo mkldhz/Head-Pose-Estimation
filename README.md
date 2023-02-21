@@ -19,7 +19,7 @@ The solution to the problem involved the following steps:
 
 1 - Getting data ready, which included downloading the dataset and unzipping it
 
-2 - Extracting Landmarks, this was done via [MediaPipe's Face Mesh Model](https://google.github.io/mediapipe/solutions/face_mesh.html)
+2 - Extracting 2D Landmarks, this was done via [MediaPipe's Face Mesh Model](https://google.github.io/mediapipe/solutions/face_mesh.html)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61518213/219885056-760f3b46-051e-486f-ae1a-c7204c9531d8.png"/>
 </p>
